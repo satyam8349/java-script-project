@@ -1,0 +1,45 @@
+.start{
+    display: flex;
+    text-decoration: none;
+    background-color: darkslategray;
+    list-style: none;
+    text-transform: none;
+    
+}
+.imgm li img{
+    height: 50px;
+    border-color: blue;
+    border-width: 2px;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+
+.imgm{
+    display: flex;
+    
+}
+.serch a fas fa-serch{
+    width: 50px;
+}
+
+.nav2{
+    text-decoration: none;
+    text-transform: none;
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: brown;
+    height: 55px;
+
+}
+.nav2 a{
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.box3{
+    font-size: 30px;
+    padding-left: 100px;
+    padding-top: 60px;
+}
+
